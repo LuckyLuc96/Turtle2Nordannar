@@ -8,7 +8,7 @@ root.withdraw()
 
 
 # You'll want to make changes to this to fit your addon. Find the line
-# or lines that will need to be changed and add +1. The program counts
+# or lines that will need to be changed and subtract -1. The program counts
 # the first line starting at 0. For the aux-addon I need to change line
 # 3 for example.
 
