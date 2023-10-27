@@ -8,9 +8,9 @@ root.withdraw()
 
 
 # You'll want to make changes to this to fit your addon. Find the line
-# or lines that will need to be changed and subtract -1. The program counts
-# the first line starting at 0. For the aux-addon I need to change line
-# 3 for example.
+# or lines that will need to be changed and subtract by -1. The program
+# counts the first line starting at 0. For the aux-addon I need to change 
+# line 3 for example.
 
 # Put your addon's lua file name here to help guide the user to the file path they need to select
 Addonlua = "aux-addon.lua"
